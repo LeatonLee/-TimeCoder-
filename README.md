@@ -1,4 +1,4 @@
-# TimeCoder - 时空码农 [![GitHub stars](https://img.shields.io/github/stars/LeatonLee/timecoder)](https://github.com/LeatonLee/timecoder/stargazers)
+# TimeCoder - 时空码农 [![GitHub stars]]
 
 
 ## 🚀 项目背景
