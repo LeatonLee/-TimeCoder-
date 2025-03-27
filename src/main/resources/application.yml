@@ -1,0 +1,15 @@
+server:
+  port: 8111
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/noveldb?useSSL=false&serverTimezone=UTC
+    username: root
+    password: Lyt20040512
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: com.novelsys.pojo
+  configuration:
+    map-underscore-to-camel-case: true
