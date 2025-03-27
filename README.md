@@ -1,4 +1,4 @@
-# TimeCoder - 时空码农 [![GitHub stars]]
+# TimeCoder - 时空码农
 
 
 ## 🚀 项目背景
